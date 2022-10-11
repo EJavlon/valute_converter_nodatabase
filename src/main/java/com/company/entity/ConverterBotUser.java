@@ -1,7 +1,5 @@
 package com.company.entity;
 
-import com.company.enums.Language;
-import com.company.enums.UserStatus;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
