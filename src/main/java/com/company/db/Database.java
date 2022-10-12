@@ -19,9 +19,9 @@ public abstract class Database {
 
     public static void load(){
         adminList.add("EJavlon");
-        adminList.add("Javlon_6nf4rd5");
-        adminList.add("unknown_6nf4rd5");
-        adminList.add("unknown_user_6nf4rd5");
+        adminList.add("username1");
+        adminList.add("username2");
+        adminList.add("username3");
         Database.CurrencyList = CurrencyService.getCurrencyList();
         Database.refreshDate = LocalDateTime.of(LocalDate.now().getYear(),LocalDate.now().getMonth(),LocalDate.now().getDayOfMonth(),11,0,0);
         Database.refreshTime = LocalTime.of(0,0,0);
