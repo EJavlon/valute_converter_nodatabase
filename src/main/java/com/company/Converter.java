@@ -23,12 +23,12 @@ public class Converter extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return " @valyutaConverterUzBot";
+        return " bot username";
     }
 
     @Override
     public String getBotToken() {
-        return "5287544016:AAHviyjFIc742CtzQhSWBi9EoSTrQZ49OxY";
+        return "bot token";
     }
 
     @Override
